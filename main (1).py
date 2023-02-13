@@ -1,4 +1,3 @@
-#find a way to graph
 #test vals 2 8 6
 print('Note: program does not work with decimals/rational values yet, only integers...')
 s = input('Enter the quadratic formula(standard form ax^2+bx+c): ')
